@@ -1,0 +1,27 @@
+{
+    "name": "rotassator/silverstripe-subsites-robotstxt",
+    "description": "Deliver custom robots.txt for subsites",
+    "type": "silverstripe-module",
+    "keywords": [
+        "silverstripe",
+        "subsites",
+        "robots.txt"
+    ],
+    "homepage": "https://github.com/rotassator/silverstripe-subsites-robotstxt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Dixon",
+            "email": "steve@rotassator.com"
+        }
+    ],
+    "require": {
+        "silverstripe/subsites": "*"
+    },
+    "support": {
+        "issues": "https://github.com/rotassator/silverstripe-subsites-robotstxt/issues"
+    },
+    "extra": {
+        "installer-name": "subsites-robotstxt"
+    }
+}
