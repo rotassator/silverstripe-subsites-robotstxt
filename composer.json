@@ -1,10 +1,11 @@
 {
     "name": "rotassator/silverstripe-subsites-robotstxt",
-    "description": "Deliver custom robots.txt for subsites",
+    "description": "Generate custom robots.txt for subsites",
     "type": "silverstripe-module",
     "keywords": [
         "silverstripe",
         "subsites",
+        "robots",
         "robots.txt"
     ],
     "homepage": "https://github.com/rotassator/silverstripe-subsites-robotstxt",

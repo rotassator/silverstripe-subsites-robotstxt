@@ -37,7 +37,7 @@ class RobotsTxtController extends Controller
 
         $data = ArrayData::create([
             'Subsite' => $subsite,
-            'isLive'  => true //Director::isLive(),
+            'isLive'  => Director::isLive(),
         ]);
 
         return $this->customise($data)->renderWith($this->getTemplate());
