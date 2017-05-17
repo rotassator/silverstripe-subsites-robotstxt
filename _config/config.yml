@@ -1,0 +1,9 @@
+---
+Name: subsites-robotstxt
+Before:
+  - 'subsites/*'
+---
+
+Director:
+  rules:
+    'robots.txt': 'RobotsTxtController'
